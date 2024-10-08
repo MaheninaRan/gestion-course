@@ -1,0 +1,57 @@
+.boucle{
+    padding: 10px;
+    box-shadow: 0.5px 0.5px 0px 0px;
+    margin-top: 20px;
+}
+.boucle h4{
+    font-family: monospace;
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+.boucle button{
+    font-size: 14px;
+    width: 70%;
+    margin-left: 15%;
+    background-color: blue;
+    color: white;
+    height: 30px;
+}
+.boucle b{
+    color: rgb(19, 19, 63);
+    font-size: 16px;
+}
+.boucle p{
+    margin-top: 20px;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+
+.categorieVrai{
+    box-shadow: 2px 1px 5px 0px;
+}
+.categorieVrai h3{
+    font-size: 20px;
+}
+.selectCateg{
+    text-align: center;
+}
+.selectCateg:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(75, 138, 255);
+}
+
+.iconeRecherche{
+    background-color: black;
+    text-align: center;
+}
+.iconeRecherche i{
+    font-size: 20px;
+    padding: 5px;
+    margin-left: -10px;
+}
+.liste a:hover{
+    color: blue;
+    font-weight: bold;
+}

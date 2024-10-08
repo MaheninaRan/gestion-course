@@ -1,0 +1,16 @@
+body{
+}
+.container{
+    width: 95%;
+    margin-top: 10%;
+}
+.divInput{
+    text-align: center;
+    background-color: rgb(116, 119, 255);
+}   
+legend{
+    font-size: 30px;
+}
+[class*="col"]{ 
+    margin-bottom: 20px ; 
+}
