@@ -1,0 +1,30 @@
+#tableauListe{
+    width: 90%;
+    height: 10px;
+}
+#trTableau{
+    height: 5px;
+}
+.paramDelete{
+    width: 10%;
+    text-align: center;
+    color: red;
+}
+.nom{
+    font-size: 18px;
+    font-family: monospace;
+}
+.paramEdit{
+    width: 10%;
+    text-align: center;
+    color: green;
+}
+.ajouter{
+    font-size: 16px;
+}
+#iconePlus{
+    color: rgb(48, 69, 255);
+    font-size: 20px;
+    text-align: center;
+    padding: 2px;
+}

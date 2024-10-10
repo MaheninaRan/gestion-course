@@ -1,0 +1,18 @@
+form{
+    border-right: double blue 5px;
+    border-radius: 10% 20% 30% 5%;
+    box-shadow: 2px 2px 2px 2px;
+    padding: 5px;
+    margin-top: 50px;
+}
+form legend{
+    text-align: center;
+}
+.valider{
+    
+}
+.valider button{
+    padding: 2%;
+    width: 70px;
+    margin-left: 40%;
+}
